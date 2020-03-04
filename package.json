@@ -1,0 +1,15 @@
+{
+  "name": "cors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa-router": "^8.0.8",
+    "koa2": "^2.0.0-alpha.7"
+  }
+}
